@@ -1,6 +1,7 @@
-# mobile
+# Ecoleta Mobile
 
-A new Flutter project.
+Flutter application developed with the Rocketseat's Next Level Week #1, which was originally developed using React Native.
+The master branch is trying to follow the closest as possible the original application in RN. However, there's a bracnh under development which will contain the same application developed more similar to a Flutter application.
 
 ## Getting Started
 
