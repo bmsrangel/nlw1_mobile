@@ -6,9 +6,10 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       navigatorKey: Modular.navigatorKey,
-      title: 'Flutter Slidy',
+      title: 'Ecoleta',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        backgroundColor: Color(0xFFF0F0F5),
       ),
       initialRoute: '/',
       onGenerateRoute: Modular.generateRoute,
